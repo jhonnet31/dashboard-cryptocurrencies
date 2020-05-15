@@ -12,5 +12,5 @@ mat-grid-tile {
   .crypto{
       position: relative;
       width: 35%;
-      border: solid;
+      /* border: solid; */
   }
