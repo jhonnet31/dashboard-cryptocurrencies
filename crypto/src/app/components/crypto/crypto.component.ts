@@ -24,7 +24,7 @@ chart:any=null;
        datasets: [
          {
         label: 'Data',
-        fill: true,
+        fill: false,
         data: [12, 19, 3, 5, 2, 3],
         backgroundColor: '#168ede',
         borderColor: '#168ede'
